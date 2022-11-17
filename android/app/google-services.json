@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579263592636",
+    "project_id": "ssc-face-count-login",
+    "storage_bucket": "ssc-face-count-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579263592636:android:74c680899db888cd9438b9",
+        "android_client_info": {
+          "package_name": "com.example.ssc_face_count"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579263592636-ir92d1fdqp23agqnh9iqtumsho2cfh5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6mPs90CetM2igvG7cLFVVJFNsk23nLOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579263592636-ir92d1fdqp23agqnh9iqtumsho2cfh5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
